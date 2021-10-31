@@ -13,5 +13,3 @@ c.	There will be a reset button at the bottom to delete the polygon and the user
 d.	The participant is requested to send a video showing the working of the project. Also, a zip file of the project.
 e.	Preferred: the project is to be created only using vanilla js, html, css and three.js library 
 f.	The project can also be created on Unity, Unreal 3D, D3, canvas or any other 3d library.
-
-here's the Output link: 
